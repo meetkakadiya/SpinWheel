@@ -1,0 +1,8 @@
+/node_modules
+/uploads
+/.env
+/package-lock.json
+/.vscode
+.idea/
+.vscode/
+
